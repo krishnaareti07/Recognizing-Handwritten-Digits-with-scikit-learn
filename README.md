@@ -48,3 +48,4 @@ Then copy `model.pkl` to project folder and run web app.
 
 * Improving model accuracy
 * Provide additional features using OpenCV
+* Thats It.
